@@ -13,6 +13,7 @@ const options = [
   { value: 'Option 1', labelTag: 'This is a label tag' },
   { value: 'Option 2' },
   { value: 'Option', description: 'description2' },
+  { value: 'Opción', description: 'description3' },
 ];
 const enteredTextLabel = (value: string) => `Use: ${value}`;
 

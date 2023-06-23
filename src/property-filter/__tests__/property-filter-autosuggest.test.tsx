@@ -12,6 +12,7 @@ import PropertyFilterAutosuggest from '../../../lib/components/property-filter/p
 const options: AutosuggestProps.Options = [
   { value: '123', label: '123' },
   { value: 'abc', label: 'abc' },
+  { value: 'Opción 3' },
 ];
 
 function renderAutosuggest(jsx: React.ReactElement) {
@@ -45,6 +46,11 @@ describe('Property filter autosuggest', () => {
     });
     test('is not used for the enteredText- option', () => {
       expect(wrapper.findEnteredTextOption()!.getElement()).toHaveTextContent('123');
+    });
+    test('allows to search for values without using diacritics', () => {
+      wrapper.setInputValue('opcion');
+      expect(wrapper.findDropdown().findOptions()).toHaveLength(1);
+      expect(wrapper.findDropdown().findOption(1)!.getElement()).toHaveTextContent('Opción');
     });
   });
   describe('onOptionClick', () => {

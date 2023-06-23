@@ -36,5 +36,21 @@ function matchSingleOption(option: OptionDefinition, searchText: string): boolea
   const label = (option.label ?? '').toLowerCase();
   const labelPrefix = option.__labelPrefix ?? '';
   const value = (option.value ? option.value.slice(labelPrefix.length) : '').toLowerCase();
-  return label.indexOf(searchText) !== -1 || value.indexOf(searchText) !== -1;
+
+  return (
+    label.indexOf(searchText) !== -1 ||
+    value.indexOf(searchText) !== -1 ||
+    matchWithoutDiacritics(label, searchText) ||
+    matchWithoutDiacritics(value, searchText)
+  );
 }
+
+const matchWithoutDiacritics = (value: string | undefined, searchText: string) => {
+  return (
+    value
+      ?.toLowerCase()
+      .normalize('NFKD')
+      .replace(/\p{Diacritic}/gu, '')
+      .indexOf(searchText) !== -1
+  );
+};
