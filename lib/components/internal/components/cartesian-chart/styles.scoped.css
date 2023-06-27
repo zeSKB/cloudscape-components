@@ -1,0 +1,113 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_axis_6q585_jvha7_9:not(#\9),
+.awsui_vertical-marker_6q585_jvha7_10:not(#\9) {
+  stroke: var(--color-charts-line-axis-4u4941, #d5dbdb);
+  stroke-width: 1px;
+}
+
+.awsui_axis--emphasized_6q585_jvha7_15:not(#\9) {
+  stroke-width: 2px;
+}
+
+.awsui_axis-label_6q585_jvha7_19:not(#\9) {
+  font-weight: bold;
+  fill: var(--color-text-body-default-fckvk9, #16191f);
+}
+
+.awsui_axis-label--x_6q585_jvha7_24:not(#\9),
+.awsui_axis-label--y_6q585_jvha7_25:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_grid_6q585_jvha7_29:not(#\9) {
+  stroke: var(--color-charts-line-grid-0r3q3h, #d5dbdb);
+  stroke-width: 1px;
+}
+
+.awsui_ticks__line_6q585_jvha7_34:not(#\9) {
+  stroke: var(--color-charts-line-tick-dhjpwa, #d5dbdb);
+  stroke-width: 1px;
+}
+
+.awsui_ticks__text_6q585_jvha7_39:not(#\9) {
+  font-size: var(--font-chart-detail-size-32v9jd, 14px);
+  fill: var(--color-text-body-secondary-vrqm14, #545b64);
+}
+
+.awsui_ticks--y_6q585_jvha7_44:not(#\9),
+.awsui_ticks--x_6q585_jvha7_45:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_ticks--bottom_6q585_jvha7_49 > .awsui_ticks__text_6q585_jvha7_39:not(#\9) {
+  text-anchor: middle;
+  dominant-baseline: hanging;
+}
+
+.awsui_labels-left_6q585_jvha7_54 > .awsui_ticks_6q585_jvha7_34 > .awsui_ticks__text_6q585_jvha7_39:not(#\9) {
+  text-anchor: end;
+  dominant-baseline: central;
+}
+
+.awsui_labels-left_6q585_jvha7_54:not(#\9) {
+  position: relative;
+  margin-right: 12px;
+}
+.awsui_labels-left_6q585_jvha7_54 > .awsui_axis-label_6q585_jvha7_19:not(#\9) {
+  position: absolute;
+  visibility: visible;
+  white-space: nowrap;
+}
+
+.awsui_labels-left__label_6q585_jvha7_69:not(#\9) {
+  position: absolute;
+}
+
+.awsui_labels-left--hidden_6q585_jvha7_73:not(#\9) {
+  visibility: hidden;
+}
+.awsui_labels-left--hidden_6q585_jvha7_73 > .awsui_labels-left__label_6q585_jvha7_69:not(#\9) {
+  position: relative;
+  white-space: nowrap;
+}
+
+.awsui_labels-bottom_6q585_jvha7_81:not(#\9) {
+  position: relative;
+  display: block;
+  width: 100%;
+  overflow: visible;
+}
+
+.awsui_vertical-marker_6q585_jvha7_10:not(#\9) {
+  pointer-events: none;
+}
+
+.awsui_vertical-marker-circle_6q585_jvha7_92:not(#\9) {
+  fill: var(--color-background-container-content-xlzim4, #ffffff);
+  pointer-events: none;
+  stroke-width: var(--border-line-chart-width-m20n2t, 2px);
+}
+
+.awsui_vertical-marker-circle-active_6q585_jvha7_98:not(#\9) {
+  cursor: pointer;
+  stroke-width: var(--border-line-chart-width-m20n2t, 2px);
+}
+
+.awsui_focus-outline_6q585_jvha7_103:not(#\9) {
+  outline: none;
+  pointer-events: none;
+  fill: none;
+  stroke: var(--color-border-item-focused-4clyb1, #0073bb);
+  stroke-width: 2px;
+}
+
+.awsui_filter-container_6q585_jvha7_111:not(#\9) {
+  /* used in test-utils */
+}

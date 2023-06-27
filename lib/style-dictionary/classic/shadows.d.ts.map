@@ -1,0 +1,1 @@
+{"version":3,"file":"shadows.d.ts","sourceRoot":"lib/style-dictionary/","sources":["classic/shadows.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,MAAM,qBAAqB,CAAC;AA6CtD,QAAA,MAAM,cAAc,EAAE,eAAe,CAAC,4BAIrC,CAAC;AACF,OAAO,EAAE,cAAc,IAAI,MAAM,EAAE,CAAC;AACpC,eAAO,MAAM,IAAI,EAAE,eAAe,CAAC,cAAwB,CAAC"}

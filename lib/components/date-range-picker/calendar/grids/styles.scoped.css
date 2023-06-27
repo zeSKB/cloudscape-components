@@ -1,0 +1,284 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_grid_192a8_km6df_97:not(#\9) {
+  width: var(--size-calendar-grid-width-92llmb, 234px);
+  border-spacing: 0;
+}
+
+.awsui_grid-cell_192a8_km6df_102:not(#\9) {
+  width: 14.2857142857%;
+  word-break: break-word;
+  text-align: center;
+  font-weight: unset;
+}
+
+.awsui_day-header_192a8_km6df_109:not(#\9) {
+  padding: var(--space-s-o95p2n, 12px) 0 var(--space-xxs-xx079q, 4px);
+  color: var(--color-text-calendar-month-s5xkxe, #545b64);
+  font-size: var(--font-body-s-size-v1w8ey, 12px);
+  line-height: var(--font-body-s-line-height-jfgg5d, 16px);
+  letter-spacing: var(--font-body-s-letter-spacing-bzrysr, normal);
+}
+
+.awsui_week_192a8_km6df_117:not(#\9) {
+  /* used for identifying element */
+}
+
+.awsui_day_192a8_km6df_109:not(#\9) {
+  border-bottom: 1px solid var(--color-border-calendar-grid-ufay6s, #eaeded);
+  border-right: 1px solid var(--color-border-calendar-grid-ufay6s, #eaeded);
+  padding: var(--space-xxs-xx079q, 4px) 0;
+  color: var(--color-text-dropdown-item-disabled-98o9ly, #aab7b8);
+  position: relative;
+}
+.awsui_day_192a8_km6df_109:not(#\9):focus {
+  outline: none;
+}
+.awsui_day_192a8_km6df_109:not(#\9)::after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: calc(-1 * var(--border-item-width-x3q2fl, 1px));
+  left: -1px;
+  bottom: -1px;
+  right: calc(-1 * var(--border-item-width-x3q2fl, 1px));
+  background-color: transparent;
+}
+body[data-awsui-focus-visible=true] .awsui_day_192a8_km6df_109:not(#\9):focus {
+  z-index: 2;
+  position: relative;
+}
+body[data-awsui-focus-visible=true] .awsui_day_192a8_km6df_109:not(#\9):focus {
+  outline: 2px dotted transparent;
+  outline-offset: calc(var(--space-calendar-grid-focus-outline-gutter-z4nann, 0px) - 1px);
+}
+body[data-awsui-focus-visible=true] .awsui_day_192a8_km6df_109:not(#\9):focus::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: calc(-1 * var(--space-calendar-grid-focus-outline-gutter-z4nann, 0px));
+  top: calc(-1 * var(--space-calendar-grid-focus-outline-gutter-z4nann, 0px));
+  width: calc(100% + 2 * var(--space-calendar-grid-focus-outline-gutter-z4nann, 0px));
+  height: calc(100% + 2 * var(--space-calendar-grid-focus-outline-gutter-z4nann, 0px));
+  border-radius: var(--border-radius-calendar-day-focus-ring-sdlzls, 2px);
+  box-shadow: 0 0 0 2px var(--color-border-item-focused-4clyb1, #0073bb);
+}
+.awsui_day_192a8_km6df_109 > .awsui_day-inner_192a8_km6df_160:not(#\9) {
+  position: relative;
+  z-index: 1;
+}
+
+.awsui_in-first-row_192a8_km6df_165:not(#\9):not(.awsui_in-previous-month_192a8_km6df_165) {
+  border-top: 1px solid var(--color-border-calendar-grid-ufay6s, #eaeded);
+}
+
+.awsui_in-previous-month_192a8_km6df_165:not(#\9):not(.awsui_last-day-of-month_192a8_km6df_169) {
+  border-right-color: transparent;
+}
+
+.awsui_in-next-month_192a8_km6df_173:not(#\9) {
+  border-color: transparent;
+}
+
+.awsui_in-first-column_192a8_km6df_177:not(#\9) {
+  border-left: 1px solid transparent;
+}
+.awsui_in-first-column_192a8_km6df_177.awsui_in-current-month_192a8_km6df_180:not(#\9) {
+  border-left: 1px solid var(--color-border-calendar-grid-ufay6s, #eaeded);
+}
+
+.awsui_enabled_192a8_km6df_184:not(#\9) {
+  cursor: pointer;
+}
+.awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180:not(#\9) {
+  color: var(--color-text-dropdown-item-default-x23sfz, #16191f);
+}
+.awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180:not(#\9):not(.awsui_in-range_192a8_km6df_190), .awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180:not(#\9):not(.awsui_in-range_192a8_km6df_190)::after, .awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180.awsui_end-date_192a8_km6df_190.awsui_start-date_192a8_km6df_190:not(#\9), .awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180.awsui_end-date_192a8_km6df_190.awsui_start-date_192a8_km6df_190:not(#\9)::after, .awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180.awsui_no-range_192a8_km6df_190:not(#\9), .awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180.awsui_no-range_192a8_km6df_190:not(#\9)::after {
+  border-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180:not(#\9):hover {
+  color: var(--color-text-calendar-day-hover-gfp9kc, #16191f);
+  background-color: var(--color-background-dropdown-item-hover-ooa2c9, #f2f3f3);
+}
+.awsui_enabled_192a8_km6df_184.awsui_in-current-month_192a8_km6df_180:not(#\9):hover:not(.awsui_selected_192a8_km6df_197)::after {
+  border: var(--border-item-width-x3q2fl, 1px) solid var(--color-border-dropdown-item-hover-jn30h1, #879596);
+}
+
+.awsui_today_192a8_km6df_201:not(#\9):not(.awsui_in-range_192a8_km6df_190) {
+  background-color: var(--color-background-calendar-today-0692qx, #f2f3f3);
+  border-radius: var(--border-radius-item-gy51bh, 0px);
+  font-weight: 700;
+}
+
+.awsui_selected_192a8_km6df_197:not(#\9) {
+  border-color: transparent;
+  position: relative;
+  z-index: 2;
+  font-weight: 700;
+}
+body[data-awsui-focus-visible=true] .awsui_selected_192a8_km6df_197:not(#\9):focus {
+  position: relative;
+}
+body[data-awsui-focus-visible=true] .awsui_selected_192a8_km6df_197:not(#\9):focus {
+  outline: 2px dotted transparent;
+  outline-offset: calc(var(--space-calendar-grid-selected-focus-outline-gutter-08ibte, 2px) - 1px);
+}
+body[data-awsui-focus-visible=true] .awsui_selected_192a8_km6df_197:not(#\9):focus::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: calc(-1 * var(--space-calendar-grid-selected-focus-outline-gutter-08ibte, 2px));
+  top: calc(-1 * var(--space-calendar-grid-selected-focus-outline-gutter-08ibte, 2px));
+  width: calc(100% + 2 * var(--space-calendar-grid-selected-focus-outline-gutter-08ibte, 2px));
+  height: calc(100% + 2 * var(--space-calendar-grid-selected-focus-outline-gutter-08ibte, 2px));
+  border-radius: var(--border-radius-calendar-day-focus-ring-sdlzls, 2px);
+  box-shadow: 0 0 0 2px var(--color-border-calendar-grid-selected-focus-ring-8fhzc9, #0073bb);
+}
+body[data-awsui-focus-visible=true] .awsui_selected_192a8_km6df_197:not(#\9):focus::before {
+  z-index: 1;
+}
+.awsui_selected_192a8_km6df_197:not(#\9)::after {
+  background-color: var(--color-background-control-checked-uprbe0, #0073bb);
+  border: var(--border-item-width-x3q2fl, 1px) solid var(--color-background-control-checked-uprbe0, #0073bb);
+  z-index: 0;
+}
+.awsui_selected_192a8_km6df_197.awsui_start-date_192a8_km6df_190:not(#\9), .awsui_selected_192a8_km6df_197.awsui_start-date_192a8_km6df_190:not(#\9)::after, .awsui_selected_192a8_km6df_197.awsui_range-start-date_192a8_km6df_239:not(#\9), .awsui_selected_192a8_km6df_197.awsui_range-start-date_192a8_km6df_239:not(#\9)::after {
+  border-top-left-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_selected_192a8_km6df_197.awsui_start-date_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242:not(#\9), .awsui_selected_192a8_km6df_197.awsui_start-date_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242:not(#\9)::after, .awsui_selected_192a8_km6df_197.awsui_range-start-date_192a8_km6df_239.awsui_in-range-border-bottom_192a8_km6df_242:not(#\9), .awsui_selected_192a8_km6df_197.awsui_range-start-date_192a8_km6df_239.awsui_in-range-border-bottom_192a8_km6df_242:not(#\9)::after {
+  border-bottom-left-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_selected_192a8_km6df_197.awsui_end-date_192a8_km6df_190:not(#\9), .awsui_selected_192a8_km6df_197.awsui_end-date_192a8_km6df_190:not(#\9)::after, .awsui_selected_192a8_km6df_197.awsui_range-end-date_192a8_km6df_245:not(#\9), .awsui_selected_192a8_km6df_197.awsui_range-end-date_192a8_km6df_245:not(#\9)::after {
+  border-bottom-right-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_selected_192a8_km6df_197.awsui_end-date_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248:not(#\9), .awsui_selected_192a8_km6df_197.awsui_end-date_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248:not(#\9)::after, .awsui_selected_192a8_km6df_197.awsui_range-end-date_192a8_km6df_245.awsui_in-range-border-top_192a8_km6df_248:not(#\9), .awsui_selected_192a8_km6df_197.awsui_range-end-date_192a8_km6df_245.awsui_in-range-border-top_192a8_km6df_248:not(#\9)::after {
+  border-top-right-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_selected_192a8_km6df_197 > .awsui_day-inner_192a8_km6df_160:not(#\9) {
+  color: var(--color-background-control-default-3975zi, #ffffff);
+  position: relative;
+  z-index: 2;
+}
+
+.awsui_in-range_192a8_km6df_190:not(#\9) {
+  background-color: var(--color-background-dropdown-item-selected-ud58gi, #f1faff);
+  font-weight: 700;
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248:not(#\9)::after {
+  border-top: var(--border-item-width-x3q2fl, 1px) solid var(--color-background-control-checked-uprbe0, #0073bb);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-right_192a8_km6df_264:not(#\9)::after {
+  border-right: var(--border-item-width-x3q2fl, 1px) solid var(--color-background-control-checked-uprbe0, #0073bb);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242:not(#\9)::after {
+  border-bottom: var(--border-item-width-x3q2fl, 1px) solid var(--color-background-control-checked-uprbe0, #0073bb);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-left_192a8_km6df_270:not(#\9)::after {
+  border-left: var(--border-item-width-x3q2fl, 1px) solid var(--color-background-control-checked-uprbe0, #0073bb);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248.awsui_in-range-border-right_192a8_km6df_264:not(#\9), .awsui_in-range_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248.awsui_in-range-border-right_192a8_km6df_264:not(#\9)::after {
+  border-top-right-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242.awsui_in-range-border-right_192a8_km6df_264:not(#\9), .awsui_in-range_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242.awsui_in-range-border-right_192a8_km6df_264:not(#\9)::after {
+  border-bottom-right-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242.awsui_in-range-border-left_192a8_km6df_270:not(#\9), .awsui_in-range_192a8_km6df_190.awsui_in-range-border-bottom_192a8_km6df_242.awsui_in-range-border-left_192a8_km6df_270:not(#\9)::after {
+  border-bottom-left-radius: var(--border-radius-item-gy51bh, 0px);
+}
+.awsui_in-range_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248.awsui_in-range-border-left_192a8_km6df_270:not(#\9), .awsui_in-range_192a8_km6df_190.awsui_in-range-border-top_192a8_km6df_248.awsui_in-range-border-left_192a8_km6df_270:not(#\9)::after {
+  border-top-left-radius: var(--border-radius-item-gy51bh, 0px);
+}

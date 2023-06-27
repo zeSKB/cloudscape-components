@@ -1,0 +1,12 @@
+{
+  "name": "@cloudscape-design/style-dictionary",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  },
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudscape-design/components.git"
+  },
+  "homepage": "https://cloudscape.design"
+}

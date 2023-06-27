@@ -1,0 +1,45 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_root_4540i_7dnma_9:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_view-button_4540i_7dnma_13:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_browse-button_4540i_7dnma_17:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_layout_4540i_7dnma_21:not(#\9) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  margin: calc(-1 * var(--space-xs-7veqkr, 8px));
+  /* stylelint-disable selector-max-universal */
+}
+.awsui_layout_4540i_7dnma_21 > *:not(#\9) {
+  margin: var(--space-xs-7veqkr, 8px);
+}
+.awsui_layout-uri_4540i_7dnma_31:not(#\9) {
+  min-width: 200px;
+  flex: 1;
+}
+.awsui_layout-version_4540i_7dnma_35:not(#\9) {
+  max-width: 180px;
+  min-width: 140px;
+  width: 20%;
+}
+.awsui_layout-divider_4540i_7dnma_40:not(#\9) {
+  height: calc(
+      2 * var(--border-divider-section-width-p0xg84, 1px) + 2 * var(--space-scaled-xxs-gmgwxk, 4px) + var(--font-body-m-line-height-9vkzhc, 22px)
+    );
+  border-left: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+}

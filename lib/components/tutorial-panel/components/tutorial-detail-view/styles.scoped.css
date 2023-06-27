@@ -1,0 +1,213 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_tutorial-list_v7euq_m6puz_93:not(#\9) {
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  border-collapse: separate;
+  border-spacing: 0;
+  caption-side: top;
+  cursor: auto;
+  direction: ltr;
+  empty-cells: show;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  -webkit-hyphens: none;
+          hyphens: none;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  tab-size: 8;
+  text-align: left;
+  text-align-last: auto;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  word-spacing: normal;
+  box-sizing: border-box;
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+  color: var(--color-text-body-default-fckvk9, #16191f);
+  font-weight: 400;
+  font-family: var(--font-family-base-nzcxu9, "Noto Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+  padding: 0;
+  margin: 0;
+}
+
+.awsui_tutorial-title_v7euq_m6puz_108:not(#\9) {
+  display: flex;
+  align-items: flex-start;
+  margin-left: calc(-1 * var(--space-xxs-xx079q, 4px));
+  padding-bottom: var(--space-xxxs-du4mq0, 2px);
+}
+
+.awsui_task_v7euq_m6puz_115:not(#\9) {
+  list-style: none;
+  padding-top: 0;
+}
+.awsui_task_v7euq_m6puz_115:not(#\9):not(:first-child) {
+  margin-top: var(--space-xl-uesynn, 24px);
+}
+
+.awsui_task-title_v7euq_m6puz_123:not(#\9) {
+  display: flex;
+  align-items: flex-start;
+  padding-left: var(--border-divider-section-width-p0xg84, 1px);
+  font-size: var(--font-heading-s-size-dnu1l1, 16px);
+  line-height: var(--font-heading-s-line-height-m71f3f, 20px);
+  letter-spacing: var(--font-heading-s-letter-spacing-jp7jyt, normal);
+}
+.awsui_task-title--status_v7euq_m6puz_131:not(#\9) {
+  line-height: inherit;
+}
+
+.awsui_current-task_v7euq_m6puz_135:not(#\9) {
+  font-weight: 700;
+}
+
+.awsui_successful-task_v7euq_m6puz_139:not(#\9) {
+  color: var(--color-text-status-success-enko1i, #1d8102);
+}
+
+.awsui_congratulation-message_v7euq_m6puz_143:not(#\9) {
+  display: flex;
+  font-size: var(--font-heading-s-size-dnu1l1, 16px);
+  line-height: var(--font-heading-s-line-height-m71f3f, 20px);
+  letter-spacing: var(--font-heading-s-letter-spacing-jp7jyt, normal);
+  font-weight: var(--font-heading-xs-weight-5uohdd, 400);
+  color: var(--color-text-status-success-enko1i, #1d8102);
+}
+.awsui_congratulation-message--status_v7euq_m6puz_151:not(#\9) {
+  line-height: inherit;
+}
+
+.awsui_plaintext-congratulation-description_v7euq_m6puz_155:not(#\9) {
+  white-space: pre-line;
+}
+
+.awsui_divider_v7euq_m6puz_159:not(#\9) {
+  border-bottom: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+}
+
+.awsui_step-list_v7euq_m6puz_163:not(#\9) {
+  list-style: none;
+  padding: 0 0 0 var(--space-xxxs-du4mq0, 2px);
+}
+
+.awsui_step_v7euq_m6puz_163:not(#\9):not(:first-child) {
+  padding-top: var(--space-xxs-xx079q, 4px);
+}
+
+.awsui_expandable-section-wrapper_v7euq_m6puz_172:not(#\9) {
+  width: 100%;
+}
+
+.awsui_expandable-section-header_v7euq_m6puz_176:not(#\9) {
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+}
+
+.awsui_step-title_v7euq_m6puz_181:not(#\9),
+.awsui_feedback-link_v7euq_m6puz_182:not(#\9),
+.awsui_dismiss-button_v7euq_m6puz_183:not(#\9),
+.awsui_completion-screen-title_v7euq_m6puz_184:not(#\9),
+.awsui_completion-screen-description_v7euq_m6puz_185:not(#\9) {
+  /* used in test-utils */
+}

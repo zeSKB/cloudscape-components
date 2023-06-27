@@ -1,0 +1,296 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_root_mu7d8_14xuw_93:not(#\9) {
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  border-collapse: separate;
+  border-spacing: 0;
+  caption-side: top;
+  cursor: auto;
+  direction: ltr;
+  empty-cells: show;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  -webkit-hyphens: none;
+          hyphens: none;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  tab-size: 8;
+  text-align: left;
+  text-align-last: auto;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  word-spacing: normal;
+  box-sizing: border-box;
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+  color: var(--color-text-body-default-fckvk9, #16191f);
+  font-weight: 400;
+  font-family: var(--font-family-base-nzcxu9, "Noto Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+  min-width: 0;
+  -ms-word-break: break-all;
+  word-break: break-word;
+}
+
+.awsui_header_mu7d8_14xuw_109:not(#\9) {
+  font-size: var(--font-panel-header-size-7dlfnh, 18px);
+  line-height: var(--font-panel-header-line-height-nzzvgi, 22px);
+  font-weight: var(--font-heading-l-weight-hqql3g, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  margin: 0;
+  padding: var(--space-scaled-l-w7rqqb, 20px) var(--space-panel-nav-left-woldqx, 32px);
+  padding-right: calc(var(--space-scaled-xxl-socb7n, 32px) + var(--space-xl-uesynn, 24px));
+}
+
+.awsui_header-link_mu7d8_14xuw_120:not(#\9) {
+  font-size: var(--font-panel-header-size-7dlfnh, 18px);
+  line-height: var(--font-panel-header-line-height-nzzvgi, 22px);
+  font-weight: var(--font-heading-l-weight-hqql3g, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  color: var(--color-text-heading-default-pytdm8, #16191f);
+  min-height: var(--font-panel-header-line-height-nzzvgi, 22px);
+  display: flex;
+}
+.awsui_header-link--has-logo_mu7d8_14xuw_130 > .awsui_header-link-text_mu7d8_14xuw_130:not(#\9) {
+  font-weight: 400;
+}
+
+.awsui_header-logo_mu7d8_14xuw_134:not(#\9) {
+  margin-right: var(--space-s-o95p2n, 12px);
+  margin-top: var(--space-xxxs-du4mq0, 2px);
+  max-width: calc(1.25 * var(--size-icon-big-6vh0f3, 32px));
+  align-self: flex-start;
+}
+.awsui_header-logo--stretched_mu7d8_14xuw_140:not(#\9) {
+  max-width: 100%;
+  margin-right: 0;
+}
+
+.awsui_list-container_mu7d8_14xuw_145:not(#\9) {
+  margin-top: var(--space-scaled-l-w7rqqb, 20px);
+}
+
+.awsui_list_mu7d8_14xuw_145:not(#\9) {
+  margin: 0;
+  padding: 0;
+  padding-left: var(--space-l-z6h7qi, 20px);
+}
+
+.awsui_list-variant-root_mu7d8_14xuw_155:not(#\9) {
+  margin: 0;
+  padding: 0 var(--space-panel-side-right-q7rj50, 32px) 0 var(--space-panel-nav-left-woldqx, 32px);
+}
+.awsui_list-variant-root--last_mu7d8_14xuw_159:not(#\9) {
+  margin-bottom: var(--space-scaled-xxxl-r9nxwo, 40px);
+}
+
+.awsui_list-variant-expandable-link-group_mu7d8_14xuw_163:not(#\9) {
+  padding-left: var(--space-xxxl-ecj2b1, 40px);
+}
+
+.awsui_list-item_mu7d8_14xuw_167:not(#\9) {
+  margin: var(--space-scaled-xs-sg3tfb, 8px) 0;
+  padding: 0;
+  list-style: none;
+}
+
+.awsui_section_mu7d8_14xuw_173:not(#\9),
+.awsui_expandable-link-group_mu7d8_14xuw_174:not(#\9) {
+  margin-left: calc(-1 * var(--space-l-z6h7qi, 20px));
+}
+.awsui_section--no-ident_mu7d8_14xuw_177:not(#\9),
+.awsui_expandable-link-group--no-ident_mu7d8_14xuw_178:not(#\9) {
+  margin-left: 0;
+}
+
+.awsui_section_mu7d8_14xuw_173:not(#\9) {
+  margin-top: calc(var(--space-scaled-2x-l-aseh7x, 20px) - var(--border-divider-section-width-p0xg84, 1px));
+  margin-bottom: calc(var(--space-scaled-2x-l-aseh7x, 20px) - var(--border-divider-section-width-p0xg84, 1px));
+  /* stylelint-disable-next-line selector-max-type */
+}
+.awsui_section_mu7d8_14xuw_173 > div:not(#\9) {
+  padding: 0;
+}
+
+.awsui_list-variant-section-group_mu7d8_14xuw_191:not(#\9) {
+  margin: 0;
+  padding: 0;
+}
+
+.awsui_section-group_mu7d8_14xuw_196:not(#\9) {
+  font-size: var(--font-heading-m-size-bwdbnx, 18px);
+  line-height: var(--font-heading-m-line-height-ahaded, 22px);
+  letter-spacing: var(--font-heading-m-letter-spacing-t3csz2, normal);
+  font-weight: var(--font-heading-m-weight-fukq3n, 400);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  margin: 0;
+}
+
+.awsui_section-group-title_mu7d8_14xuw_206:not(#\9) {
+  /* used in test-utils */
+}
+
+.awsui_link_mu7d8_14xuw_210:not(#\9) {
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+  color: var(--color-text-body-secondary-vrqm14, #545b64);
+  font-weight: 400;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+
+.awsui_link-active_mu7d8_14xuw_219:not(#\9) {
+  font-weight: var(--font-wayfinding-link-active-weight-aix7m6, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  color: var(--color-text-accent-exu66k, #0073bb);
+}
+
+.awsui_header-link_mu7d8_14xuw_120:not(#\9),
+.awsui_link_mu7d8_14xuw_210:not(#\9) {
+  text-decoration: none;
+}
+.awsui_header-link_mu7d8_14xuw_120:not(#\9):hover,
+.awsui_link_mu7d8_14xuw_210:not(#\9):hover {
+  color: var(--color-text-accent-exu66k, #0073bb);
+}
+.awsui_header-link_mu7d8_14xuw_120:not(#\9):focus,
+.awsui_link_mu7d8_14xuw_210:not(#\9):focus {
+  outline: none;
+}
+.awsui_header-link_mu7d8_14xuw_120:not(#\9):hover, .awsui_header-link_mu7d8_14xuw_120:not(#\9):focus, .awsui_link_mu7d8_14xuw_210:not(#\9):hover, .awsui_link_mu7d8_14xuw_210:not(#\9):focus {
+  text-decoration: none;
+}
+body[data-awsui-focus-visible=true] .awsui_header-link_mu7d8_14xuw_120:not(#\9):focus,
+body[data-awsui-focus-visible=true] .awsui_link_mu7d8_14xuw_210:not(#\9):focus {
+  outline: thin dotted;
+  outline: var(--border-link-focus-ring-outline-e033ba, 5px auto Highlight);
+  outline-offset: 2px;
+  outline-color: var(--color-border-item-focused-4clyb1, #0073bb);
+  border-radius: var(--border-radius-control-default-focus-ring-uu8qi4, 2px);
+  box-shadow: 0 0 0 var(--border-link-focus-ring-shadow-spread-3gfzjd, 0px) var(--color-border-item-focused-4clyb1, #0073bb);
+}
+
+.awsui_info_mu7d8_14xuw_253:not(#\9) {
+  margin-left: var(--space-xs-7veqkr, 8px);
+}
+
+.awsui_external-icon_mu7d8_14xuw_257:not(#\9) {
+  margin-left: var(--space-xxs-xx079q, 4px);
+}
+
+.awsui_divider_mu7d8_14xuw_261:not(#\9) {
+  border: none;
+  border-top: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+}
+
+.awsui_divider-default_mu7d8_14xuw_266:not(#\9) {
+  margin: var(--space-scaled-2x-xl-6yv6qx, 24px) calc(-1 * var(--space-s-o95p2n, 12px));
+}
+
+.awsui_divider-header_mu7d8_14xuw_270:not(#\9) {
+  margin-top: 0;
+}

@@ -1,0 +1,319 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_root_12kfy_1modv_97:not(#\9) {
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+  color: var(--color-text-body-default-fckvk9, #16191f);
+  font-weight: 400;
+  font-family: var(--font-family-base-nzcxu9, "Noto Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+  width: 100%;
+}
+
+.awsui_tools_12kfy_1modv_108:not(#\9) {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  padding: var(--space-scaled-xs-sg3tfb, 8px) 0 var(--space-scaled-xxs-gmgwxk, 4px);
+}
+.awsui_tools-filtering_12kfy_1modv_114:not(#\9) {
+  max-width: 100%;
+  margin-right: var(--space-l-z6h7qi, 20px);
+}
+@supports (flex-basis: fit-content) {
+  .awsui_tools-filtering_12kfy_1modv_114:not(#\9) {
+    flex: 1 1 fit-content;
+  }
+}
+@supports not (flex-basis: fit-content) {
+  .awsui_tools-filtering_12kfy_1modv_114:not(#\9) {
+    flex: 1 1 auto;
+  }
+}
+.awsui_tools-align-right_12kfy_1modv_128:not(#\9) {
+  display: flex;
+  margin-left: auto;
+}
+.awsui_tools-pagination_12kfy_1modv_132 + .awsui_tools-preferences_12kfy_1modv_132:not(#\9) {
+  border-left: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  box-sizing: border-box;
+  margin-left: var(--space-xs-7veqkr, 8px);
+  padding-left: var(--space-xs-7veqkr, 8px);
+}
+.awsui_tools-small_12kfy_1modv_138 > .awsui_tools-filtering_12kfy_1modv_114:not(#\9) {
+  margin-right: 0;
+  margin-bottom: var(--space-scaled-xs-sg3tfb, 8px);
+  flex-basis: 100%;
+}
+
+.awsui_table_12kfy_1modv_144:not(#\9) {
+  width: 100%;
+  border-spacing: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+.awsui_table-layout-fixed_12kfy_1modv_150:not(#\9) {
+  table-layout: fixed;
+}
+
+.awsui_wrapper_12kfy_1modv_154:not(#\9) {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  padding-top: var(--space-table-content-top-nzg0b3, 0px);
+  padding-bottom: var(--space-table-content-bottom-1d9z26, 0px);
+  overflow-x: auto;
+  scrollbar-width: none; /* Hide scrollbar in Firefox */
+}
+.awsui_wrapper_12kfy_1modv_154.awsui_variant-stacked_12kfy_1modv_163 > .awsui_table_12kfy_1modv_144:not(#\9), .awsui_wrapper_12kfy_1modv_154.awsui_variant-container_12kfy_1modv_163 > .awsui_table_12kfy_1modv_144:not(#\9) {
+  padding-left: var(--space-table-horizontal-lwojp9, 0px);
+  padding-right: var(--space-table-horizontal-lwojp9, 0px);
+}
+.awsui_wrapper_12kfy_1modv_154.awsui_variant-embedded_12kfy_1modv_167:not(#\9), .awsui_wrapper_12kfy_1modv_154.awsui_variant-borderless_12kfy_1modv_167:not(#\9) {
+  padding-bottom: var(--space-table-embedded-content-bottom-mp1fho, 0px);
+}
+.awsui_wrapper_12kfy_1modv_154.awsui_has-header_12kfy_1modv_170:not(#\9) {
+  padding-top: 0px;
+}
+.awsui_wrapper_12kfy_1modv_154.awsui_has-footer_12kfy_1modv_173:not(#\9) {
+  padding-bottom: 0px;
+}
+.awsui_wrapper_12kfy_1modv_154:not(#\9):not(.awsui_has-header_12kfy_1modv_170) {
+  border-top-right-radius: var(--border-radius-container-53367b, 0px);
+  border-top-left-radius: var(--border-radius-container-53367b, 0px);
+}
+.awsui_wrapper_12kfy_1modv_154:not(#\9)::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Safari and Chrome */
+}
+body[data-awsui-focus-visible=true] .awsui_wrapper_12kfy_1modv_154:not(#\9):focus {
+  outline: 2px dotted transparent;
+  outline-offset: 2px;
+  border-radius: var(--border-radius-container-53367b, 0px);
+  box-shadow: 0 0 0 2px var(--color-border-item-focused-4clyb1, #0073bb);
+}
+
+.awsui_cell-merged_12kfy_1modv_190:not(#\9) {
+  text-align: center;
+  padding: 0;
+}
+.awsui_cell-merged_12kfy_1modv_190.awsui_has-footer_12kfy_1modv_173:not(#\9) {
+  /*
+  Add a bottom border to the body cell of an empty table as a separator between the 
+  table and the footer
+  */
+  border-bottom: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+}
+.awsui_cell-merged-content_12kfy_1modv_201:not(#\9) {
+  box-sizing: border-box;
+  width: 100%;
+  padding: var(--space-scaled-m-5caa5e, 16px) var(--space-l-z6h7qi, 20px) var(--space-scaled-l-w7rqqb, 20px);
+  /* stylelint-disable plugin/no-unsupported-browser-features */
+  /* stylelint-enable plugin/no-unsupported-browser-features */
+}
+@supports (position: sticky) {
+  .awsui_cell-merged-content_12kfy_1modv_201:not(#\9) {
+    position: sticky;
+    left: 0;
+    margin: 0 calc(-2 * var(--space-table-horizontal-lwojp9, 0px));
+  }
+}
+
+.awsui_empty_12kfy_1modv_216:not(#\9) {
+  color: var(--color-text-empty-ks3bhj, #687078);
+}
+
+.awsui_loading_12kfy_1modv_220:not(#\9) {
+  /* used in test-utils */
+}
+
+/*
+The min/max/width token values in Visual Refresh should align 
+the table header and body cells selection control with the table
+filter search icon.
+*/
+.awsui_selection-control_12kfy_1modv_229:not(#\9) {
+  box-sizing: border-box;
+  max-width: var(--size-table-selection-horizontal-yct218, 54px);
+  min-width: var(--size-table-selection-horizontal-yct218, 54px);
+  position: relative;
+  width: var(--size-table-selection-horizontal-yct218, 54px);
+}
+.awsui_selection-control_12kfy_1modv_229.awsui_selection-control-header_12kfy_1modv_236:not(#\9) {
+  padding: var(--space-scaled-xs-sg3tfb, 8px) var(--space-scaled-l-w7rqqb, 20px);
+  border-left: var(--border-item-width-x3q2fl, 1px) solid transparent;
+}
+
+.awsui_sticky-scrollbar_12kfy_1modv_241:not(#\9) {
+  height: 15px;
+  position: sticky;
+  display: none;
+  overflow-x: auto;
+  overflow-y: hidden;
+  bottom: 0;
+  width: 100%;
+}
+.awsui_sticky-scrollbar-content_12kfy_1modv_250:not(#\9) {
+  height: 15px;
+}
+.awsui_sticky-scrollbar-visible_12kfy_1modv_253:not(#\9) {
+  display: block;
+}
+.awsui_sticky-scrollbar-native-invisible_12kfy_1modv_256:not(#\9) {
+  margin-top: -15px;
+}
+
+/*
+The dynamic height dark header needs a background that will cover
+the default white background of the container component.
+*/
+.awsui_dark-header_12kfy_1modv_264:not(#\9) {
+  background-color: var(--color-background-layout-main-nd5gs3, #f2f3f3);
+  color: var(--color-text-body-default-fckvk9, #16191f);
+}
+
+.awsui_header-secondary_12kfy_1modv_269:not(#\9) {
+  overflow: auto;
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 0;
+  background: var(--color-background-table-header-fqke5t, #fafafa);
+}
+.awsui_header-secondary_12kfy_1modv_269.awsui_variant-stacked_12kfy_1modv_163 > .awsui_table_12kfy_1modv_144:not(#\9), .awsui_header-secondary_12kfy_1modv_269.awsui_variant-container_12kfy_1modv_163 > .awsui_table_12kfy_1modv_144:not(#\9) {
+  padding-left: var(--space-table-horizontal-lwojp9, 0px);
+  padding-right: var(--space-table-horizontal-lwojp9, 0px);
+}
+.awsui_header-secondary_12kfy_1modv_269:not(#\9)::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+.awsui_header-secondary_12kfy_1modv_269.awsui_table-has-header_12kfy_1modv_285:not(#\9) {
+  border-top: var(--border-divider-list-width-iu80dg, 1px) solid var(--color-border-container-divider-b2ream, #eaeded);
+}
+
+.awsui_header-controls_12kfy_1modv_289:not(#\9) {
+  padding-top: var(--space-container-header-vertical-ezarcz, 12px);
+  padding-bottom: var(--space-container-header-vertical-ezarcz, 12px);
+}
+.awsui_header-controls_12kfy_1modv_289.awsui_variant-full-page_12kfy_1modv_293:not(#\9) {
+  padding-top: 0;
+}
+.awsui_header-controls_12kfy_1modv_289.awsui_variant-stacked_12kfy_1modv_163:not(#\9), .awsui_header-controls_12kfy_1modv_289.awsui_variant-container_12kfy_1modv_163:not(#\9) {
+  padding-left: calc(var(--space-table-horizontal-lwojp9, 0px) + var(--space-table-header-horizontal-a2koq0, 20px));
+  padding-right: calc(var(--space-table-horizontal-lwojp9, 0px) + var(--space-table-header-horizontal-a2koq0, 20px));
+}
+.awsui_header-controls_12kfy_1modv_289.awsui_variant-embedded_12kfy_1modv_167:not(#\9), .awsui_header-controls_12kfy_1modv_289.awsui_variant-borderless_12kfy_1modv_167:not(#\9) {
+  padding-left: var(--space-table-header-horizontal-a2koq0, 20px);
+  padding-right: var(--space-table-header-horizontal-a2koq0, 20px);
+  padding-top: var(--space-table-embedded-header-top-mxrtd1, 12px);
+}
+
+.awsui_footer-wrapper_12kfy_1modv_306.awsui_variant-stacked_12kfy_1modv_163:not(#\9), .awsui_footer-wrapper_12kfy_1modv_306.awsui_variant-container_12kfy_1modv_163:not(#\9) {
+  padding-left: var(--space-table-horizontal-lwojp9, 0px);
+  padding-right: var(--space-table-horizontal-lwojp9, 0px);
+}
+
+.awsui_footer_12kfy_1modv_306:not(#\9) {
+  padding: var(--space-scaled-s-73r995, 12px) var(--space-table-footer-horizontal-b4tgte, 20px);
+}
+
+.awsui_thead-active_12kfy_1modv_315:not(#\9),
+.awsui_row_12kfy_1modv_316:not(#\9),
+.awsui_row-selected_12kfy_1modv_317:not(#\9) {
+  /* used in test-utils */
+}

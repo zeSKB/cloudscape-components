@@ -1,0 +1,391 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-implicit-descendant, selector-max-type */
+.awsui_help-panel_19ndq_1tag4_94:not(#\9) {
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  border-collapse: separate;
+  border-spacing: 0;
+  caption-side: top;
+  cursor: auto;
+  direction: ltr;
+  empty-cells: show;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  -webkit-hyphens: none;
+          hyphens: none;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  tab-size: 8;
+  text-align: left;
+  text-align-last: auto;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  word-spacing: normal;
+  box-sizing: border-box;
+  font-size: var(--font-body-m-size-0qqejn, 14px);
+  line-height: var(--font-body-m-line-height-9vkzhc, 22px);
+  color: var(--color-text-body-default-fckvk9, #16191f);
+  font-weight: 400;
+  font-family: var(--font-family-base-nzcxu9, "Noto Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+  word-wrap: break-word;
+  padding: var(--space-scaled-l-w7rqqb, 20px) var(--space-panel-side-right-q7rj50, 32px) 0 var(--space-panel-side-left-v0z44b, 32px);
+}
+.awsui_help-panel_19ndq_1tag4_94 hr:not(#\9) {
+  border: none;
+  border-top: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  margin: var(--space-scaled-xl-2yypb9, 24px) calc(-1 * var(--space-xs-7veqkr, 8px));
+}
+.awsui_help-panel_19ndq_1tag4_94 ol:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 ul:not(#\9) {
+  padding-left: var(--space-l-z6h7qi, 20px);
+  list-style-position: outside;
+}
+.awsui_help-panel_19ndq_1tag4_94 a:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 p:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 ul:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 ol:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 li:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h2:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h3:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h4:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h5:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 pre:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 code:not(#\9) {
+  margin: var(--space-xs-7veqkr, 8px) 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.awsui_help-panel_19ndq_1tag4_94 code:not(#\9) {
+  font-size: var(--font-body-s-size-v1w8ey, 12px);
+  line-height: var(--font-body-s-line-height-jfgg5d, 16px);
+  letter-spacing: var(--font-body-s-letter-spacing-bzrysr, normal);
+  font-family: var(--font-family-monospace-t2i6ax, Monaco, Menlo, Consolas, "Courier Prime", Courier, "Courier New", monospace);
+  background-color: var(--color-background-layout-main-nd5gs3, #f2f3f3);
+  padding: 0 var(--space-xxs-xx079q, 4px);
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+.awsui_help-panel_19ndq_1tag4_94 pre:not(#\9) {
+  font-size: var(--font-body-s-size-v1w8ey, 12px);
+  line-height: var(--font-body-s-line-height-jfgg5d, 16px);
+  letter-spacing: var(--font-body-s-letter-spacing-bzrysr, normal);
+  font-family: var(--font-family-monospace-t2i6ax, Monaco, Menlo, Consolas, "Courier Prime", Courier, "Courier New", monospace);
+  background-color: var(--color-background-layout-main-nd5gs3, #f2f3f3);
+  padding: 0 var(--space-xxs-xx079q, 4px);
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  padding: var(--space-xxs-xx079q, 4px);
+}
+.awsui_help-panel_19ndq_1tag4_94 dl:not(#\9) {
+  margin: var(--space-xs-7veqkr, 8px) 0;
+  /* stylelint-disable-next-line selector-max-universal */
+}
+.awsui_help-panel_19ndq_1tag4_94 dl *:not(#\9) {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.awsui_help-panel_19ndq_1tag4_94 dt:not(#\9) {
+  margin-top: var(--space-xs-7veqkr, 8px);
+  font-weight: 700;
+}
+.awsui_help-panel_19ndq_1tag4_94 dd:not(#\9) {
+  margin: 0 0 var(--space-xs-7veqkr, 8px);
+}
+.awsui_help-panel_19ndq_1tag4_94 h2:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h3:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h4:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h5:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 h6:not(#\9) {
+  margin-top: var(--space-xl-uesynn, 24px);
+  color: var(--color-text-heading-default-pytdm8, #16191f);
+}
+.awsui_help-panel_19ndq_1tag4_94 > :not(#\9):last-child {
+  margin-bottom: var(--space-scaled-xxxl-r9nxwo, 40px);
+}
+.awsui_help-panel_19ndq_1tag4_94 p:not(#\9) {
+  color: inherit;
+  text-decoration: none;
+}
+.awsui_help-panel_19ndq_1tag4_94 h1:not(#\9) {
+  font-size: var(--font-heading-xl-size-is7x8e, 28px);
+  line-height: var(--font-heading-xl-line-height-vkzpnf, 36px);
+  letter-spacing: var(--font-heading-xl-letter-spacing-gwr2it, normal);
+  font-weight: var(--font-heading-xl-weight-q85svm, 400);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+}
+.awsui_help-panel_19ndq_1tag4_94 h2:not(#\9) {
+  font-size: var(--font-heading-l-size-s5huxt, 18px);
+  line-height: var(--font-heading-l-line-height-b1ar04, 22px);
+  letter-spacing: var(--font-heading-l-letter-spacing-898wn9, normal);
+  font-weight: var(--font-heading-l-weight-hqql3g, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+}
+.awsui_help-panel_19ndq_1tag4_94 h3:not(#\9) {
+  font-size: var(--font-heading-m-size-bwdbnx, 18px);
+  line-height: var(--font-heading-m-line-height-ahaded, 22px);
+  letter-spacing: var(--font-heading-m-letter-spacing-t3csz2, normal);
+  font-weight: var(--font-heading-m-weight-fukq3n, 400);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+}
+.awsui_help-panel_19ndq_1tag4_94 h4:not(#\9) {
+  font-size: var(--font-heading-s-size-dnu1l1, 16px);
+  line-height: var(--font-heading-s-line-height-m71f3f, 20px);
+  letter-spacing: var(--font-heading-s-letter-spacing-jp7jyt, normal);
+  font-weight: var(--font-heading-s-weight-rxw9ij, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+}
+.awsui_help-panel_19ndq_1tag4_94 h5:not(#\9) {
+  font-size: var(--font-heading-xs-size-zxjy53, 16px);
+  line-height: var(--font-heading-xs-line-height-61ulqg, 20px);
+  font-weight: var(--font-heading-xs-weight-5uohdd, 400);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+}
+.awsui_help-panel_19ndq_1tag4_94 b:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 strong:not(#\9) {
+  font-weight: 700;
+}
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227:not(#\9) {
+  font-size: var(--font-panel-header-size-7dlfnh, 18px);
+  line-height: var(--font-panel-header-line-height-nzzvgi, 22px);
+  font-weight: var(--font-heading-l-weight-hqql3g, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  color: var(--color-text-heading-default-pytdm8, #16191f);
+  padding-bottom: var(--space-scaled-l-w7rqqb, 20px);
+  padding-left: var(--space-panel-side-left-v0z44b, 32px);
+  padding-right: calc(var(--space-xl-uesynn, 24px) + var(--space-scaled-xxl-socb7n, 32px));
+  border: none;
+  border-bottom: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  margin: 0 calc(-1 * var(--space-panel-side-right-q7rj50, 32px)) var(--space-scaled-l-w7rqqb, 20px) calc(-1 * var(--space-panel-side-left-v0z44b, 32px));
+}
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227 h2:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227 h3:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227 h4:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227 h5:not(#\9),
+.awsui_help-panel_19ndq_1tag4_94 .awsui_header_19ndq_1tag4_227 h6:not(#\9) {
+  font-size: var(--font-panel-header-size-7dlfnh, 18px);
+  line-height: var(--font-panel-header-line-height-nzzvgi, 22px);
+  font-weight: var(--font-heading-l-weight-hqql3g, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.awsui_content_19ndq_1tag4_257:not(#\9) {
+  color: var(--color-text-body-secondary-vrqm14, #545b64);
+}
+.awsui_content_19ndq_1tag4_257 h2:not(#\9):first-child,
+.awsui_content_19ndq_1tag4_257 h3:not(#\9):first-child,
+.awsui_content_19ndq_1tag4_257 h4:not(#\9):first-child,
+.awsui_content_19ndq_1tag4_257 h5:not(#\9):first-child,
+.awsui_content_19ndq_1tag4_257 h6:not(#\9):first-child {
+  margin-top: 0;
+}
+.awsui_content_19ndq_1tag4_257 a:not(#\9) {
+  color: var(--color-text-link-default-0jy39k, #0073bb);
+  font-weight: var(--font-link-primary-weight-cpyp2f, 700);
+  letter-spacing: var(--font-link-primary-letter-spacing-wsaj96, 0.005em);
+  -webkit-text-decoration: var(--font-link-primary-decoration-azbtan, none);
+          text-decoration: var(--font-link-primary-decoration-azbtan, none);
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  text-decoration-color: var(--color-text-link-primary-underline-ewz0jv, transparent);
+  transition-property: color, -webkit-text-decoration;
+  transition-property: color, text-decoration;
+  transition-property: color, text-decoration, -webkit-text-decoration;
+  transition-duration: var(--motion-duration-refresh-only-medium-smx8a1, 165ms);
+}
+@media (prefers-reduced-motion: reduce) {
+  .awsui_content_19ndq_1tag4_257 a:not(#\9) {
+    animation: none;
+    transition: none;
+  }
+}
+.awsui-motion-disabled .awsui_content_19ndq_1tag4_257 a:not(#\9), .awsui-mode-entering .awsui_content_19ndq_1tag4_257 a:not(#\9) {
+  animation: none;
+  transition: none;
+}
+.awsui_content_19ndq_1tag4_257 a:not(#\9):hover {
+  cursor: pointer;
+  color: var(--color-text-link-hover-z15m9s, #0073bb);
+}
+.awsui_content_19ndq_1tag4_257 a:not(#\9):focus {
+  outline: none;
+}
+.awsui_content_19ndq_1tag4_257 a:not(#\9):active {
+  color: var(--color-text-link-hover-z15m9s, #0073bb);
+}
+.awsui_content_19ndq_1tag4_257 a:not(#\9):active, .awsui_content_19ndq_1tag4_257 a:not(#\9):focus, .awsui_content_19ndq_1tag4_257 a:not(#\9):hover {
+  text-decoration: underline;
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  text-decoration-color: currentColor;
+}
+
+.awsui_footer_19ndq_1tag4_303:not(#\9) {
+  color: var(--color-text-body-secondary-vrqm14, #545b64);
+  border-top: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  margin: var(--space-scaled-xl-2yypb9, 24px) calc(-1 * var(--space-xs-7veqkr, 8px));
+  padding: 0 var(--space-s-o95p2n, 12px);
+}
+.awsui_footer_19ndq_1tag4_303 > :not(#\9):first-child {
+  margin-top: var(--space-scaled-xl-2yypb9, 24px);
+}
+.awsui_footer_19ndq_1tag4_303 ul:not(#\9) {
+  list-style: none;
+  padding-left: 0;
+}
+.awsui_footer_19ndq_1tag4_303 a:not(#\9) {
+  color: var(--color-text-link-default-0jy39k, #0073bb);
+  font-weight: inherit;
+  letter-spacing: normal;
+  text-decoration: none;
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  text-decoration-color: transparent;
+  transition-property: color, -webkit-text-decoration;
+  transition-property: color, text-decoration;
+  transition-property: color, text-decoration, -webkit-text-decoration;
+  transition-duration: var(--motion-duration-refresh-only-medium-smx8a1, 165ms);
+}
+@media (prefers-reduced-motion: reduce) {
+  .awsui_footer_19ndq_1tag4_303 a:not(#\9) {
+    animation: none;
+    transition: none;
+  }
+}
+.awsui-motion-disabled .awsui_footer_19ndq_1tag4_303 a:not(#\9), .awsui-mode-entering .awsui_footer_19ndq_1tag4_303 a:not(#\9) {
+  animation: none;
+  transition: none;
+}
+.awsui_footer_19ndq_1tag4_303 a:not(#\9):hover {
+  cursor: pointer;
+  color: var(--color-text-link-hover-z15m9s, #0073bb);
+}
+.awsui_footer_19ndq_1tag4_303 a:not(#\9):focus {
+  outline: none;
+}
+.awsui_footer_19ndq_1tag4_303 a:not(#\9):active {
+  color: var(--color-text-link-hover-z15m9s, #0073bb);
+}
+.awsui_footer_19ndq_1tag4_303 a:not(#\9):active, .awsui_footer_19ndq_1tag4_303 a:not(#\9):focus, .awsui_footer_19ndq_1tag4_303 a:not(#\9):hover {
+  text-decoration: underline;
+  /* stylelint-disable-next-line plugin/no-unsupported-browser-features */
+  text-decoration-color: currentColor;
+}
+
+.awsui_content_19ndq_1tag4_257 a:not(#\9):focus,
+.awsui_footer_19ndq_1tag4_303 a:not(#\9):focus {
+  outline: thin dotted;
+  outline: var(--border-link-focus-ring-outline-e033ba, 5px auto Highlight);
+  outline-offset: 2px;
+  outline-color: var(--color-border-item-focused-4clyb1, #0073bb);
+  border-radius: var(--border-radius-control-default-focus-ring-uu8qi4, 2px);
+  box-shadow: 0 0 0 var(--border-link-focus-ring-shadow-spread-3gfzjd, 0px) var(--color-border-item-focused-4clyb1, #0073bb);
+}

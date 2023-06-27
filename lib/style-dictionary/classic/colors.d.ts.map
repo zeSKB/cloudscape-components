@@ -1,0 +1,1 @@
+{"version":3,"file":"colors.d.ts","sourceRoot":"lib/style-dictionary/","sources":["classic/colors.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,MAAM,qBAAqB,CAAC;AAyItD,QAAA,MAAM,cAAc,EAAE,eAAe,CAAC,4BAIrC,CAAC;AAEF,OAAO,EAAE,cAAc,IAAI,MAAM,EAAE,CAAC;AACpC,eAAO,MAAM,IAAI,EAAE,eAAe,CAAC,cAAwB,CAAC"}

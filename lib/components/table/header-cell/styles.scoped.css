@@ -1,0 +1,287 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* Style used for links in slots/components that are text heavy, to help links stand out among 
+surrounding text. (WCAG F73) https://www.w3.org/WAI/WCAG21/Techniques/failures/F73#description */
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+.awsui_header-cell_1540p_5u3um_93:not(#\9) {
+  position: relative;
+  text-align: left;
+  box-sizing: border-box;
+  border-bottom: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  background: var(--color-background-table-header-fqke5t, #fafafa);
+  color: var(--color-text-column-header-4pges2, #545b64);
+  font-weight: var(--font-heading-s-weight-rxw9ij, 700);
+  -webkit-font-smoothing: var(--font-smoothing-webkit-teqshp, auto);
+  -moz-osx-font-smoothing: var(--font-smoothing-moz-osx-apq2ca, auto);
+  padding: var(--space-scaled-xxs-gmgwxk, 4px) var(--space-scaled-xs-sg3tfb, 8px);
+}
+.awsui_header-cell-sticky_1540p_5u3um_105:not(#\9) {
+  border-bottom: var(--border-table-sticky-width-yx825w, 0px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+}
+.awsui_header-cell-stuck_1540p_5u3um_108:not(#\9):not(.awsui_header-cell-variant-full-page_1540p_5u3um_108) {
+  border-bottom-color: transparent;
+}
+.awsui_header-cell-variant-full-page_1540p_5u3um_108.awsui_header-cell-hidden_1540p_5u3um_111:not(#\9) {
+  border-bottom-color: transparent;
+}
+.awsui_header-cell_1540p_5u3um_93:not(#\9):last-child, .awsui_header-cell_1540p_5u3um_93.awsui_header-cell-sortable_1540p_5u3um_114:not(#\9) {
+  padding-right: var(--space-xs-7veqkr, 8px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell_1540p_5u3um_117:not(#\9) {
+  position: sticky;
+  background: var(--color-background-table-header-fqke5t, #fafafa);
+  z-index: 798;
+  transition-property: padding;
+  transition-duration: var(--motion-duration-transition-show-quick-jutpn8, 90ms);
+  transition-timing-function: var(--motion-easing-sticky-ry2pb1, ease-out);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell-pad-left_1540p_5u3um_125:not(#\9):not(.awsui_has-selection_1540p_5u3um_125) {
+  padding-left: var(--space-table-horizontal-lwojp9, 0px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell-last-left_1540p_5u3um_128:not(#\9) {
+  box-shadow: var(--shadow-sticky-column-first-koaqrl, 4px 0 8px 0 rgba(0, 28, 36, 0.1));
+  clip-path: inset(0px -24px 0px 0px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell-last-left_1540p_5u3um_128:not(#\9):not(.awsui_header-cell-resizable_1540p_5u3um_132):before {
+  display: none;
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell-last-right_1540p_5u3um_135:not(#\9) {
+  box-shadow: var(--shadow-sticky-column-last-hzi1qw, -4px 0 8px 0 rgba(0, 28, 36, 0.1));
+  clip-path: inset(0 0 0 -24px);
+}
+@media (prefers-reduced-motion: reduce) {
+  .awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell_1540p_5u3um_117:not(#\9) {
+    animation: none;
+    transition: none;
+  }
+}
+.awsui-motion-disabled .awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell_1540p_5u3um_117:not(#\9), .awsui-mode-entering .awsui_header-cell_1540p_5u3um_93.awsui_sticky-cell_1540p_5u3um_117:not(#\9) {
+  animation: none;
+  transition: none;
+}
+.awsui_header-cell_1540p_5u3um_93:not(#\9):not(:last-child):before {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  min-height: var(--font-heading-xs-line-height-61ulqg, 20px);
+  max-height: calc(100% - calc(2 * var(--space-xs-7veqkr, 8px) + var(--space-xxxs-du4mq0, 2px)));
+  margin: auto;
+  border-left: var(--border-divider-section-width-p0xg84, 1px) solid var(--color-border-divider-default-uqjcpn, #eaeded);
+  box-sizing: border-box;
+}
+.awsui_header-cell-resizable_1540p_5u3um_132:not(#\9):not(:last-child):before {
+  border-left-color: var(--color-border-divider-interactive-default-ktxsgx, #687078);
+}
+
+.awsui_sorting-icon_1540p_5u3um_165:not(#\9) {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: var(--space-xxs-xx079q, 4px);
+  color: var(--color-text-column-sorting-icon-2fj7hd, #687078);
+}
+
+.awsui_edit-icon_1540p_5u3um_173:not(#\9) {
+  margin-left: var(--space-xxs-xx079q, 4px);
+  margin-top: var(--space-scaled-xxs-gmgwxk, 4px);
+  color: inherit;
+}
+
+.awsui_header-cell-content_1540p_5u3um_179:not(#\9) {
+  position: relative;
+  padding: var(--space-scaled-xxs-gmgwxk, 4px) var(--space-s-o95p2n, 12px);
+}
+.awsui_header-cell-sortable_1540p_5u3um_114 > .awsui_header-cell-content_1540p_5u3um_179:not(#\9) {
+  padding-right: calc(var(--space-xl-uesynn, 24px) + var(--space-xxs-xx079q, 4px));
+}
+.awsui_header-cell-content_1540p_5u3um_179:not(#\9):focus {
+  outline: none;
+  text-decoration: none;
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179:not(#\9):focus {
+  position: relative;
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179:not(#\9):focus {
+  outline: 2px dotted transparent;
+  outline-offset: calc(var(--space-table-header-focus-outline-gutter-w7nu2w, 0px) - 1px);
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179:not(#\9):focus::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: calc(-1 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  top: calc(-1 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  width: calc(100% + 2 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  height: calc(100% + 2 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  border-radius: var(--border-radius-control-default-focus-ring-uu8qi4, 2px);
+  box-shadow: 0 0 0 2px var(--color-border-item-focused-4clyb1, #0073bb);
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179.awsui_header-cell-fake-focus_1540p_5u3um_208:not(#\9) {
+  position: relative;
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179.awsui_header-cell-fake-focus_1540p_5u3um_208:not(#\9) {
+  outline: 2px dotted transparent;
+  outline-offset: calc(var(--space-table-header-focus-outline-gutter-w7nu2w, 0px) - 1px);
+}
+body[data-awsui-focus-visible=true] .awsui_header-cell-content_1540p_5u3um_179.awsui_header-cell-fake-focus_1540p_5u3um_208:not(#\9)::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: calc(-1 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  top: calc(-1 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  width: calc(100% + 2 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  height: calc(100% + 2 * var(--space-table-header-focus-outline-gutter-w7nu2w, 0px));
+  border-radius: var(--border-radius-control-default-focus-ring-uu8qi4, 2px);
+  box-shadow: 0 0 0 2px var(--color-border-item-focused-4clyb1, #0073bb);
+}
+.awsui_header-cell-disabled_1540p_5u3um_226.awsui_header-cell-sorted_1540p_5u3um_226 > .awsui_header-cell-content_1540p_5u3um_179 > .awsui_sorting-icon_1540p_5u3um_165:not(#\9) {
+  color: var(--color-text-interactive-disabled-48m1sz, #aab7b8);
+}
+
+.awsui_header-cell-sortable_1540p_5u3um_114:not(#\9):not(.awsui_header-cell-disabled_1540p_5u3um_226) > .awsui_header-cell-content_1540p_5u3um_179 {
+  cursor: pointer;
+}
+.awsui_header-cell-sortable_1540p_5u3um_114:not(#\9):not(.awsui_header-cell-disabled_1540p_5u3um_226) > .awsui_header-cell-content_1540p_5u3um_179:hover, .awsui_header-cell-sortable_1540p_5u3um_114:not(#\9):not(.awsui_header-cell-disabled_1540p_5u3um_226).awsui_header-cell-sorted_1540p_5u3um_226 > .awsui_header-cell-content_1540p_5u3um_179 {
+  color: var(--color-text-interactive-active-2cnt2n, #16191f);
+}
+.awsui_header-cell-sortable_1540p_5u3um_114:not(#\9):not(.awsui_header-cell-disabled_1540p_5u3um_226) > .awsui_header-cell-content_1540p_5u3um_179:hover > .awsui_sorting-icon_1540p_5u3um_165, .awsui_header-cell-sortable_1540p_5u3um_114:not(#\9):not(.awsui_header-cell-disabled_1540p_5u3um_226).awsui_header-cell-sorted_1540p_5u3um_226 > .awsui_header-cell-content_1540p_5u3um_179 > .awsui_sorting-icon_1540p_5u3um_165 {
+  color: var(--color-text-interactive-active-2cnt2n, #16191f);
+}
+
+.awsui_header-cell-text_1540p_5u3um_240:not(#\9) {
+  line-height: var(--font-heading-xs-line-height-61ulqg, 20px);
+  padding-top: calc(var(--space-xxxs-du4mq0, 2px) / 2);
+  padding-bottom: calc(var(--space-xxxs-du4mq0, 2px) / 2);
+}
+.awsui_header-cell-text_1540p_5u3um_240:not(#\9):not(.awsui_header-cell-text-wrap_1540p_5u3um_245) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.awsui_header-cell-ascending_1540p_5u3um_251:not(#\9),
+.awsui_header-cell-descending_1540p_5u3um_252:not(#\9) {
+  /* used in test-utils */
+}
+
+/*
+In Visual Refresh the first cell in the header should align
+with the left edge of the table as closely as possible. If the
+last header cell is sortable the sort icon should align with the
+settings icon in the pagination slot.
+*/
+.awsui_header-cell_1540p_5u3um_93:not(#\9):not(.awsui_is-visual-refresh_1540p_5u3um_262):first-child {
+  padding-left: var(--space-xs-7veqkr, 8px);
+}
+
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9) {
+  /*
+  Striped rows requires additional left padding because the
+  shaded background makes the child content appear too close
+  to the table edge.
+  */
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9):first-child:not(.awsui_has-striped-rows_1540p_5u3um_273) {
+  padding-left: var(--space-xxxs-du4mq0, 2px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9):first-child:not(.awsui_has-striped-rows_1540p_5u3um_273).awsui_sticky-cell-pad-left_1540p_5u3um_125 {
+  padding-left: var(--space-table-horizontal-lwojp9, 0px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9):first-child.awsui_has-striped-rows_1540p_5u3um_273 {
+  padding-left: var(--space-xxs-xx079q, 4px);
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9):first-child > .awsui_header-cell-content_1540p_5u3um_179 {
+  padding-left: 0;
+}
+.awsui_header-cell_1540p_5u3um_93.awsui_is-visual-refresh_1540p_5u3um_262:not(#\9):last-child.awsui_header-cell-sortable_1540p_5u3um_114 {
+  padding-right: var(--space-xxxs-du4mq0, 2px);
+}

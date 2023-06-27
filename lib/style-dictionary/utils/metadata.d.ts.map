@@ -1,0 +1,1 @@
+{"version":3,"file":"metadata.d.ts","sourceRoot":"lib/style-dictionary/","sources":["utils/metadata.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,eAAe,EAAE,MAAM,cAAc,CAAC;AAG/C,wBAAgB,cAAc,CAAC,UAAU,EAAE,eAAe,CAAC,aAAa,GAAG,eAAe,CAAC,aAAa,CAWvG;AAED,wBAAgB,kBAAkB,CAChC,YAAY,EAAE,eAAe,CAAC,UAAU,CAAC,MAAM,CAAC,EAChD,cAAc,EAAE,eAAe,CAAC,aAAa,GAC5C,eAAe,CAAC,aAAa,CAW/B"}

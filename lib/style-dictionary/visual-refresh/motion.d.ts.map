@@ -1,0 +1,1 @@
+{"version":3,"file":"motion.d.ts","sourceRoot":"lib/style-dictionary/","sources":["visual-refresh/motion.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,MAAM,qBAAqB,CAAC;AAiDtD,QAAA,MAAM,cAAc,EAAE,eAAe,CAAC,6BAA8D,CAAC;AAErG,OAAO,EAAE,cAAc,IAAI,MAAM,EAAE,CAAC;AACpC,eAAO,MAAM,IAAI,EAAE,eAAe,CAAC,cAAyB,CAAC"}
